@@ -2,10 +2,10 @@ E:\VisualBasic\7_segment\bin\Debug\7_segment.exe.config
 E:\VisualBasic\7_segment\bin\Debug\7_segment.exe
 E:\VisualBasic\7_segment\bin\Debug\7_segment.pdb
 E:\VisualBasic\7_segment\bin\Debug\7_segment.xml
-E:\VisualBasic\7_segment\obj\Debug\7_segment.vbprojAssemblyReference.cache
 E:\VisualBasic\7_segment\obj\Debug\_7_segment.Form1.resources
 E:\VisualBasic\7_segment\obj\Debug\_7_segment.Resources.resources
 E:\VisualBasic\7_segment\obj\Debug\7_segment.vbproj.GenerateResource.cache
 E:\VisualBasic\7_segment\obj\Debug\7_segment.exe
 E:\VisualBasic\7_segment\obj\Debug\7_segment.xml
 E:\VisualBasic\7_segment\obj\Debug\7_segment.pdb
+E:\VisualBasic\7_segment\obj\Debug\7_segment.vbprojAssemblyReference.cache
